@@ -1,0 +1,6 @@
+[reddit.creds]
+client_id = "DCEXbfZ8Yif_m02lv9HBEA"
+client_secret = "qBZK24B5hc6Wpb1Rn7Ww0Z50ugfqag"
+username = "JLLUZLANDINi"
+password = "6969viado"
+2fa = false
